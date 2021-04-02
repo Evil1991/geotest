@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b311aea-8f2a-43aa-a2e5-168d0a611dab" name="Default" comment="" />
+    <list default="true" id="2b311aea-8f2a-43aa-a2e5-168d0a611dab" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/install/api/api/getCity/index.php" afterPath="$PROJECT_DIR$/install/api/api/getCity/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/install/components/altopromo/geocity/.description.php" afterPath="$PROJECT_DIR$/install/components/altopromo/geocity/.description.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/install/components/altopromo/geocity/ajax.php" afterPath="$PROJECT_DIR$/install/components/altopromo/geocity/ajax.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/install/components/altopromo/geocity/component.php" afterPath="$PROJECT_DIR$/install/components/altopromo/geocity/component.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/install/components/altopromo/geocity/templates/.default/script.js" afterPath="$PROJECT_DIR$/install/components/altopromo/geocity/templates/.default/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/install/index.php" afterPath="$PROJECT_DIR$/install/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/geotest.php" afterPath="$PROJECT_DIR$/lib/geotest.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,41 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="include.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/include.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="geotest.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="geotest.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/geotest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="69" column="16" lean-forward="false" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="version.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/install/version.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="unstep.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/install/unstep.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="892">
+              <caret line="130" column="0" lean-forward="true" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -61,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/install/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-136">
-              <caret line="61" column="15" lean-forward="false" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="15" />
+            <state relative-caret-position="323">
+              <caret line="61" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="143" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -74,8 +52,48 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/install/api/api/getCity/index.php">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".description.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/install/components/altopromo/geocity/.description.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/install/components/altopromo/geocity/templates/.default/template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/install/components/altopromo/geocity/templates/.default/style.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/install/components/altopromo/geocity/templates/.default/script.js">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+              <caret line="11" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -84,8 +102,8 @@
       <file leaf-file-name="component.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/install/components/altopromo/geocity/component.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+            <state relative-caret-position="204">
+              <caret line="12" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -95,7 +113,7 @@
         <entry file="file://$PROJECT_DIR$/install/components/altopromo/geocity/ajax.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+              <caret line="21" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -103,14 +121,21 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/include.php" />
         <option value="$PROJECT_DIR$/install/version.php" />
+        <option value="$PROJECT_DIR$/install/index.php" />
         <option value="$PROJECT_DIR$/install/api/api/getCity/index.php" />
-        <option value="$PROJECT_DIR$/lib/geotest.php" />
+        <option value="$PROJECT_DIR$/install/components/altopromo/geocity/component.php" />
         <option value="$PROJECT_DIR$/install/components/altopromo/geocity/ajax.php" />
+        <option value="$PROJECT_DIR$/lib/geotest.php" />
+        <option value="$PROJECT_DIR$/install/components/altopromo/geocity/.description.php" />
+        <option value="$PROJECT_DIR$/install/components/altopromo/geocity/templates/.default/script.js" />
       </list>
     </option>
   </component>
@@ -125,12 +150,13 @@
       <path value="C:\Users\prestaweb-pc\projects\PHPStorm-CC-PrestaShop-master\PHPStorm-CC-PrestaShop-master" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="219" />
     <option name="y" value="171" />
     <option name="width" value="1260" />
     <option name="height" value="788" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -200,6 +226,25 @@
               <item name="altopromo" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="geocity" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="geotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="geotest" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="install" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="altopromo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="geocity" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="geotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="geotest" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="install" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="altopromo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="geocity" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name=".default" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -235,22 +280,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617360562286</updated>
-      <workItem from="1617360567845" duration="799000" />
+      <workItem from="1617360567845" duration="1820000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="799000" />
+    <option name="totallyTimeSpent" value="1820000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -308,26 +353,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/install/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="61" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="143" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/install/api/api/getCity/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        <state relative-caret-position="136">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install/components/altopromo/geocity/.description.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install/components/altopromo/geocity/templates/.default/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install/components/altopromo/geocity/templates/.default/style.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/install/components/altopromo/geocity/component.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/geotest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="69" column="16" lean-forward="false" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
+        <state relative-caret-position="204">
+          <caret line="12" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="2" />
           <folding />
         </state>
       </provider>
@@ -335,15 +404,23 @@
     <entry file="file://$PROJECT_DIR$/install/components/altopromo/geocity/ajax.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+          <caret line="21" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/install/index.php">
+    <entry file="file://$PROJECT_DIR$/install/components/altopromo/geocity/templates/.default/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-136">
-          <caret line="61" column="15" lean-forward="false" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="15" />
+        <state relative-caret-position="187">
+          <caret line="11" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/geotest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="892">
+          <caret line="130" column="0" lean-forward="true" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
           <folding />
         </state>
       </provider>
